@@ -1,8 +1,6 @@
 # Loyalty-Points-Analysis
-Analyzing user behavior and calculating loyalty points using Python and pandas
-# Loyalty Points Analysis
-
-This project analyzes user behavior (deposits, withdrawals, and gameplay) to calculate loyalty points and rank users based on their activity. It also explores how to fairly distribute bonuses among the most loyal users.
+Analysing user behaviour and calculating loyalty points using Python and panda
+This project analyses user behaviour (deposits, withdrawals, and gameplay) to calculate loyalty points and rank users based on their activity. It also explores how to fairly distribute bonuses among the most loyal users.
 
 ## 📌 Key Features:
 
